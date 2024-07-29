@@ -1,7 +1,11 @@
 import { SignUp } from "@clerk/clerk-react";
 
 const Route = () => {
-  return <SignUp />;
+  return (
+    <div className="flex justify-center items-center h-screen">
+    <SignUp />
+  </div>
+  )
 };
 
 export default Route;
