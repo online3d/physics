@@ -1,6 +1,6 @@
 {
   "name": "effectuall-github",
-  "private": true,
+  "homepage": "https://online3d.github.io/physics/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
